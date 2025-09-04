@@ -20,3 +20,4 @@ Official product page on [divoom.com](https://divoom.com/products/pixoo-64)
 | `pixoo64_V90180.bin` | Thu Jul 27 23:11:13 2023 |
 | `pixoo64_V90181.bin` | Mon Aug 28 19:59:10 2023 |
 | `pixoo64_V90192.bin` | Thu Apr 25 04:25:59 2024 |
+| `pixoo64_V90205.bin` | Sat Feb 15 00:32:02 2025 |
